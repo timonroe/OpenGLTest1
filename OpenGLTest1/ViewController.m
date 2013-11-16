@@ -7,6 +7,7 @@
 
 #define BUFFER_OFFSET(i) ((char *)NULL + (i))
 
+
 // Uniform index.
 enum
 {
